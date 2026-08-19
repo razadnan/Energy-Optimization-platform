@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+
+outputs/
+
+.env
+
+.ipynb_checkpoints/
+data/raw/
+data/processed/
+logs/
+*.log
+*.db
+*.sqlite
+
+
